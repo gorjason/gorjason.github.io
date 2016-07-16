@@ -4,7 +4,12 @@
     "repositoryName": "gorjason.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Word Associations ",
+    "description": "Thoughts triggered by a word"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
